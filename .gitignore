@@ -40,6 +40,17 @@ codegen/
 *.sbproj.bak
 
 # IVLam files
-ivLam*
+ivLam*pcwin64.dll
+ivLam*pcwin64.exp
+ivLam*pcwin64.lib
+ivLam*pcwin64.obj
+ivLam*.log
+*matlabGenerated.m
 
+# Data Kernels
+data/**
 
+# Mice
+mice/**
+
+resources/**
